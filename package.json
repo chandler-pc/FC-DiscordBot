@@ -1,0 +1,19 @@
+{
+  "name": "fc-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/rest": "^0.5.0",
+    "cheerio": "^1.0.0-rc.11",
+    "discord-api-types": "^0.33.5",
+    "discord.js": "^13.8.0",
+    "pretty": "^2.0.0"
+  }
+}
